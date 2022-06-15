@@ -1,0 +1,6 @@
+{
+    // "db": "mongodb://localhost/fyp",
+    "db": "mongodb+srv://arslanshahid1:hafiz123@cluster0.6mnpsum.mongodb.net/?retryWrites=true&w=majority",
+    "jwtPrivateKey": "someprivatekey"
+
+}
